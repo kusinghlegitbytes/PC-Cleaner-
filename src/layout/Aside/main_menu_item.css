@@ -1,0 +1,12 @@
+.aside_container{
+    background-color: #edf2f7;
+    padding: 20px;
+    min-width: 200px;
+}
+.main_menu, .sub_menu{
+    list-style: none;
+}
+.main_menu{
+    margin: 0;
+    padding: 0;
+}
